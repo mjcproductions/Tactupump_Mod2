@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- M2L3S18 -->
+<animation>
+	<anim>
+		<src>EPI_260.png</src>
+		<time>1</time>
+	</anim>
+	<anim>
+		<src>M2L3S18-01.png</src>
+		<time>10</time>
+	</anim>
+	<anim>
+		<src>M2L3S18-02.png</src>
+		<time>17</time>
+	</anim>
+	<anim>
+		<src>M2L3S18-03.png</src>
+		<time>28</time>
+	</anim>
+
+</animation>

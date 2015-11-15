@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- M2L2S04 -->
+<animation>
+
+	<anim>
+		<src>EPI_212-01.png</src>
+		<time>12</time>
+	</anim>
+	<anim>
+		<src>EPI_212-02.png</src>
+		<time>20</time>
+	</anim>
+	<anim>
+		<src>EPI_212-03.png</src>
+		<time>27</time>
+	</anim>
+	<anim>
+		<src>EPI_212-04.png</src>
+		<time>40</time>
+	</anim>
+
+
+</animation>

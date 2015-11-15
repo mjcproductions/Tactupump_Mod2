@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- M1L2S03 -->
+<animation>
+	<anim>
+		<src>M2L3S10-01.png</src>
+		<time>0</time>
+	</anim>
+	<anim>
+		<src>M2L3S10-02.png</src>
+		<time>0</time>
+	</anim>
+	<anim>
+		<src>M2L3S10-03.png</src>
+		<time>0</time>
+	</anim>
+	<anim>
+		<src>64.9-small.png</src>
+		<time>0</time>
+		<end>38</end>
+	</anim>
+	<anim>
+		<src>69.5-small.png</src>
+		<time>0</time>
+		<end>40</end>
+	</anim>
+	<anim>
+		<src>65.7-small.png</src>
+		<time>0</time>
+		<end>42</end>
+	</anim>
+	<anim>
+		<src>64.9-large.png</src>
+		<time>38</time>
+	</anim>
+	<anim>
+		<src>69.5-large.png</src>
+		<time>40</time>
+	</anim>
+	<anim>
+		<src>65.7-large.png</src>
+		<time>42</time>
+	</anim>
+
+</animation>

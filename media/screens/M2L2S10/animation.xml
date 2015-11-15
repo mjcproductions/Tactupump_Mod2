@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- M1L1S03 -->
+<animation>
+
+	<anim>
+		<src>EPI_273.png</src>
+		<time>0</time>
+		<end>39</end>
+	</anim>
+	<anim>
+		<src>EPI_273-01.png</src>
+		<time>6</time>
+		<end>21</end>
+	</anim>
+	<anim>
+		<src>EPI_273-02.png</src>
+		<time>21</time>
+		<end>31</end>
+	</anim>
+	<anim>
+		<src>EPI_273-03.png</src>
+		<time>31</time>
+		<end>34</end>
+	</anim>
+	<anim>
+		<src>EPI_273-04.png</src>
+		<time>34</time>
+		<end>39</end>
+	</anim>
+	<anim>
+		<src>EPI_273-05.png</src>
+		<time>40</time>
+	</anim>
+	<anim>
+		<src>EPI_273-06.png</src>
+		<time>50</time>
+	</anim>
+	<anim>
+		<src>EPI_273-07.png</src>
+		<time>56</time>
+	</anim>
+
+
+</animation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- M2L3S11 -->
+<animation>
+	<anim>
+		<src>M2L3S11-01.png</src>
+		<time>0</time>
+	</anim>
+	<anim>
+		<src>M2L3S11-02.png</src>
+		<time>0</time>
+	</anim>
+	<anim>
+		<src>M2L3S11-03.png</src>
+		<time>0</time>
+	</anim>
+	<anim>
+		<src>M2L3S11-04.png</src>
+		<time>18</time>
+	</anim>
+	<anim>
+		<src>M2L3S11-05.png</src>
+		<time>24</time>
+	</anim>
+	<anim>
+		<src>M2L3S11-06.png</src>
+		<time>27</time>
+	</anim>
+
+</animation>

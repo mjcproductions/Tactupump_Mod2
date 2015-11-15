@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- M2L3S05 -->
+<animation>
+	<anim>
+		<src>EPI_222-01.png</src>
+		<time>0</time>
+	</anim>
+	<anim>
+		<src>EPI_222-02.png</src>
+		<time>0</time>
+	</anim>
+	<anim>
+		<src>EPI_222-03.png</src>
+		<time>0</time>
+	</anim>
+	<anim>
+		<src>EPI_222-04.png</src>
+		<time>0</time>
+	</anim>
+	<anim>
+		<src>EPI_222-05.png</src>
+		<time>14</time>
+	</anim>
+	<anim>
+		<src>EPI_222-06.png</src>
+		<time>23</time>
+	</anim>
+	<anim>
+		<src>EPI_222-07.png</src>
+		<time>25</time>
+	</anim>
+	<anim>
+		<src>EPI_222-08.png</src>
+		<time>29</time>
+	</anim>
+	<anim>
+		<src>EPI_222-09.png</src>
+		<time>32</time>
+	</anim>
+
+</animation>

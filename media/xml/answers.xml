@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<answers>
+	
+	<!-- Lesson 6 Assessment -->
+	<M2L6S02>
+		<answer>b</answer>
+		<answer>d</answer>
+	</M2L6S02>
+	
+	<M2L6S03>
+		<answer>b</answer>
+		<answer>c</answer>
+		<answer>d</answer>
+		<answer>e</answer>
+	</M2L6S03>
+
+	<M2L6S04>
+		<answer>a</answer>
+	</M2L6S04>
+	
+	<M2L6S05>
+		<answer>a</answer>
+		<answer>b</answer>
+		<answer>c</answer>
+	</M2L6S05>
+	
+	<M2L6S06>
+		<answer>d</answer>
+	</M2L6S06>
+	
+	<M2L6S07>
+		<answer>a</answer>
+		<answer>b</answer>
+		<answer>c</answer>
+		<answer>d</answer>
+		<answer>e</answer>
+	</M2L6S07>
+	
+	<M2L6S08>
+		<answer>c</answer>
+	</M2L6S08>
+	
+	<M2L6S09>
+		<answer>a</answer>
+		<answer>b</answer>
+		<answer>c</answer>
+		<answer>d</answer>
+	</M2L6S09>
+	
+	<M2L6S10>
+		<answer>c</answer>
+	</M2L6S10>
+	
+	<M2L6S11>
+		<answer>a</answer>
+		<answer>c</answer>
+		<answer>d</answer>
+	</M2L6S11>
+	
+	<M2L6S12>
+		<answer>c</answer>
+	</M2L6S12>
+	
+	<M2L6S13>
+		<answer>b</answer>
+		<answer>d</answer>
+	</M2L6S13>
+	
+	<M2L6S14>
+		<answer>d</answer>
+	</M2L6S14>
+	
+	<M2L6S15>
+		<answer>
+			<drag>2</drag>
+			<drop>1</drop>
+		</answer>
+		
+		<answer>
+			<drag>1</drag>
+			<drop>2</drop>
+		</answer>
+		
+		
+		<answer>
+			<drag>3</drag>
+			<drop>4</drop>
+		</answer>
+		
+		<answer>
+			<drag>4</drag>
+			<drop>3</drop>
+		</answer>
+	</M2L6S15>
+	
+	<M2L6S16>
+		<answer>a</answer>
+	</M2L6S16>
+	
+</answers>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<animation>
+
+    <anim>
+        <src>EPI_214.png</src>
+        <time>0</time>
+		<end>69</end>
+    </anim>
+    <anim>
+        <src>EPI_214-01.png</src>
+        <time>17</time>
+		<end>41</end>
+    </anim>
+    <anim>
+        <src>EPI_214-02.png</src>
+        <time>41</time>
+		<end>50</end>
+    </anim>
+	<anim>
+        <src>EPI_214-03.png</src>
+        <time>50</time>
+		<end>59</end>
+    </anim>
+    <anim>
+		<src>EPI_214-04.png</src>
+		<time>59</time>
+		<end>69</end>
+	</anim>
+    <anim>
+        <src>EPI_214-05.png</src>
+        <time>69</time>
+    </anim>
+    <anim>
+		<src>EPI_214-06.png</src>
+		<time>85</time>
+	</anim>
+
+</animation>

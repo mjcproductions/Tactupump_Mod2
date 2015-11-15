@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- M2L1S02 -->
+<animation>
+
+    <anim>
+        <src>EPI_202-01.png</src>
+        <time>2</time>
+    </anim>
+
+    <anim>
+		<src>EPI_202-02.png</src>
+		<time>7</time>
+	</anim>
+
+</animation>

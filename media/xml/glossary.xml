@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+
+	<term>
+		<title>concomitant</title>
+		<def>accompanying especially in a subordinate or incidental way </def>
+		<mediaName>concomitant.mp3</mediaName>
+	</term>
+
+	<term>
+		<title>contact dermatitis</title>
+		<def>inflammation of the skin due to contact with allergens or an irritating substance </def>
+		<mediaName>contact_dermatitis.mp3</mediaName>
+	</term>
+
+	<term>
+		<title>contraindication</title>
+		<def>a specific situation in which a drug, procedure, or surgery should not be used because it may be harmful to the patient</def>
+		<mediaName>contraindications.mp3</mediaName>
+	</term>
+
+	<term>
+		<title>cutaneous</title>
+		<def>of, relating to, or affecting the skin </def>
+		<mediaName>cutaneous.mp3</mediaName>
+	</term>
+
+	<term>
+		<title>cytosolic</title>
+		<def>the fluid portion of the cytoplasm exclusive of organelles and membranes </def>
+		<mediaName>cytosolic.mp3</mediaName>
+	</term>
+
+	<term>
+		<title>desquamating</title>
+		<def>process of shedding of the cuticle in scales or of the outer layer of any surface </def>
+		<mediaName>desquamating.mp3 </mediaName>
+	</term>
+
+	<term>
+		<title>eczema</title>
+		<def>an inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened </def>
+		<mediaName>eczema.mp3</mediaName>
+	</term>
+
+	<term>
+		<title>erythema</title>
+		<def>abnormal redness of the skin caused by dilation of blood vessels and capillaries near the skin's surface </def>
+		<mediaName>erythema.mp3</mediaName>
+	</term>
+
+	<term>
+		<title>hyperpigmentation</title>
+		<def>an excess of pigment in a tissue or part; in a patient with lighter skin, areas of increased pigmentation</def>
+		<mediaName>hyperpigmentation.mp3</mediaName>
+	</term>
+
+	<term>
+		<title>keratolytic</title>
+		<def>ability to separate or loosen the horny layer of the epidermis </def>
+		<mediaName>keratolytic.mp3</mediaName>
+	</term>
+
+	<term>
+		<title>last observation carried forward</title>
+		<def>the last measured outcome of a study subject; ie, if patient drops out of a study before it ends, 
+		then his or her last observed score is used for all subsequent observation points. 
+		This technique assumes patients improve gradually from the start of the study until the end, so that
+		carrying forward a value is a conservative estimate of how well treatment would have done if the subject had remained in the study </def>
+		<mediaName>last_observation_carried_forward.mp3</mediaName>
+	</term>
+
+	<term>
+		<title>pregnancy category</title>
+		<def>an assessment of the risk of fetal injury due to a drug  </def>
+		<mediaName>preganacy_category.mp3</mediaName>
+	</term>
+
+	<term>
+		<title>retinoid</title>
+		<def>a class of keratolytic drugs, that has anti-comedogenic activity, derived from retinoic acid and used for treatment of severe acne and psoriasis </def>
+		<mediaName>retinoid.mp3</mediaName>
+	</term>
+
+	<term>
+		<title>tolerability</title>
+		<def>the capacity to endure exposure to a large concentration or quantity of a substance (such as a drug, food, or poison) </def>
+		<mediaName>tolerability.mp3</mediaName>
+	</term>
+
+</glossary>

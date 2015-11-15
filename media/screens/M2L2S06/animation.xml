@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- M2L2S06 -->
+<animation>
+
+	<anim>
+		<src>EPI_272-01.png</src>
+		<time>0</time>
+	</anim>
+	<anim>
+		<src>EPI_272-02.png</src>
+		<time>7</time>
+		<end>32</end>
+	</anim>
+	<anim>
+		<src>EPI_272-03.png</src>
+		<time>32</time>
+	</anim>
+
+
+</animation>

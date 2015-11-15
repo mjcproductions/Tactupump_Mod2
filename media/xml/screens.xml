@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screenList>
+	
+	<!-- Lesson 1 -->	
+	<screen>
+		<name>M2L0S01</name> <!-- 0 -->
+		<title>Welcome Screen</title>
+		<type>splash</type>
+		<mediaName>M2L0S01.mp3</mediaName>
+		<animation></animation>
+	</screen> 
+
+	<screen>
+		<name>M2L1S01</name> <!-- 1 -->
+		<title>Is There Something That Can Give Better Results?</title>
+		<mediaName>M2L1S01.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L1S02</name> 
+		<title>Lesson One Learning Objectives</title>
+		<mediaName>M2L1S02.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen> 
+		<name>M2L1S03</name>
+		<title>Rationale for the Development of Dual Action Acne Treatments</title>
+		<mediaName>M2L1S03.mp3</mediaName>
+		<animation>true</animation>
+		<popup>
+			<name>pop1</name>
+			<mediaName></mediaName>
+		</popup>
+		<popup>
+			<name>pop2</name>
+			<mediaName></mediaName>
+		</popup>
+		<popup>
+			<name>pop3</name>
+			<mediaName></mediaName>
+		</popup>
+		<popup>
+			<name>pop4</name>
+			<mediaName></mediaName>
+		</popup>
+		<popup>
+			<name>pop5</name>
+			<mediaName></mediaName>
+		</popup>
+		<popup>
+			<name>pop6</name>
+			<mediaName></mediaName>
+		</popup>
+	</screen>
+
+	<screen> 
+		<name>M2L1S04</name>
+		<title>Mechanism of Action</title>
+		<mediaName>M2L1S04.mp4</mediaName>
+		<animation></animation>
+	</screen>
+	
+	<screen>
+		<name>M2L1S05</name>
+		<title>Global Alliance Treatment Algorithm</title>
+		<mediaName>M2L1S05.mp3</mediaName>
+		<animation>true</animation>
+				
+		<popup>
+			<name>pop1</name>
+			<mediaName></mediaName>
+		</popup>		
+		<popup>
+			<name>pop2</name>
+			<mediaName></mediaName>
+		</popup>
+	</screen>
+	
+	<!-- Lesson 2 -->
+	<screen>	<!-- 6 -->	
+		<name>M2L2S01</name>
+		<title>Lesson Two Learning Objectives</title>
+		<mediaName>M2L2S01.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+
+	<screen>
+		<name>M2L2S02</name>
+		<title>TactuPump &amp; TactuPump Forte Product Monograph</title>
+		<mediaName>M2L2S02.mp3</mediaName>
+		<animation></animation>
+				
+		<popup>
+			<name>pop1</name>
+			<mediaName>M2L2S02A.mp3</mediaName>
+		</popup>		
+		<popup>
+			<name>pop2</name>
+			<mediaName>M2L2S02B.mp3</mediaName>
+		</popup>
+		<popup>
+			<name>pop3</name>
+			<mediaName>M2L2S02C.mp3</mediaName>
+		</popup>
+		<popup>
+			<name>pop4</name>
+			<mediaName>M2L2S02D.mp3</mediaName>
+		</popup>
+		<popup>
+			<name>pop5</name>
+			<mediaName></mediaName>
+		</popup>	
+		<popup>
+			<name>pop6</name>
+			<mediaName></mediaName>
+		</popup>	
+		<popup>
+			<name>pop7</name>
+			<mediaName></mediaName>
+		</popup>		
+	</screen>
+	
+	<screen>
+		<name>M2L2S03</name>
+		<title>Warnings and Precautions</title>
+		<mediaName>M2L2S03.mp3</mediaName>
+		<animation>true</animation>
+				
+		<popup>
+			<name>pop1</name>
+			<mediaName></mediaName>
+		</popup>		
+		<popup>
+			<name>pop2</name>
+			<mediaName></mediaName>
+		</popup>
+		<popup>
+			<name>pop3</name>
+			<mediaName></mediaName>
+		</popup>
+		<popup>
+			<name>pop4</name>
+			<mediaName></mediaName>
+		</popup>
+		<popup>
+			<name>pop5</name>
+			<mediaName></mediaName>
+		</popup>
+	</screen>
+	
+	<screen>
+		<name>M2L2S04</name>
+		<title>Use in Specific Populations</title>
+		<mediaName>M2L2S04.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L2S05</name>
+		<title>Adverse Reactions</title>
+		<mediaName>M2L2S05.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L2S06</name>
+		<title>Drug Interactions</title>
+		<mediaName>M2L2S06.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L2S07</name>
+		<title>Mechanism of Action</title>
+		<mediaName>M2L2S07.mp3</mediaName>
+		<animation>true</animation>
+		<popup>
+			<name>pop1</name>
+			<mediaName></mediaName>
+		</popup>
+		<popup>
+			<name>pop2</name>
+			<mediaName></mediaName>
+		</popup>
+	</screen>
+
+	<screen>
+		<name>M2L2S08</name>
+		<title>Summary of Phase 3 Clinical Trials</title>
+		<mediaName>M2L2S08.mp3</mediaName>
+		<animation>true</animation>		
+	</screen>
+	
+	<screen>
+		<name>M2L2S09</name>
+		<title>Summary of Phase 4 Pediatric Trial </title>
+		<mediaName>M2L2S09.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+
+	<screen>
+		<name>M2L2S10</name>
+		<title>Summary of TactuPump Forte Clinical Trial</title>
+		<mediaName>M2L2S10.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+
+	<!-- Lesson 3 -->
+	<screen>	<!-- Screen 16 -->
+		<name>M2L3S01</name>
+		<title>Lesson Three Learning Objective</title>
+		<mediaName>M2L3S01.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L3S02</name>
+		<title>Phase 3 Study 2</title>
+		<mediaName>M2L3S02.mp3</mediaName>
+		<animation></animation>
+		
+		<popup>
+			<name>pop1</name>
+			<mediaName>M2L3S02A.mp3</mediaName>
+		</popup>
+		<popup>
+			<name>pop2</name>
+			<mediaName>M2L3S02B.mp3</mediaName>
+		</popup>
+		<popup>
+			<name>pop3</name>
+			<mediaName>M2L3S02C.mp3</mediaName>
+		</popup>
+		<popup>
+			<name>pop4</name>
+			<mediaName>M2L3S02D.mp3</mediaName>
+		</popup>	
+	</screen>
+
+	<screen> 
+		<name>M2L3S03</name>
+		<title>Efficacy Assessment: Success Rates</title>
+		<mediaName>M2L3S03.mp3</mediaName>
+		<animation>true</animation>
+		
+		<popup>
+			<name>pop1</name>
+			<mediaName></mediaName>
+		</popup>
+	</screen>
+
+	<screen> 
+		<name>M2L3S04</name>
+		<title>Median Percentage Change in Lesion Count</title>
+		<mediaName>M2L3S04.mp3</mediaName>
+		<animation></animation>
+	</screen>
+
+	<screen>
+		<name>M2L3S05</name>
+		<title>Investigator’s Global Assessment </title>
+		<mediaName>M2L3S05.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L3S06</name>
+		<title>Subject’s Assessment of Acne Improvement</title>
+		<mediaName>M2L3S06.mp3</mediaName>
+		<animation>true</animation>
+		
+		<popup>
+			<name>pop1</name>
+			<mediaName></mediaName>
+		</popup>
+	</screen>
+	
+	<screen>
+		<name>M2L3S07</name>
+		<title>Safety Results</title>
+		<mediaName>M2L3S07.mp3</mediaName>
+		<animation>true</animation>
+		
+		<popup>
+			<name>pop1</name>
+			<mediaName></mediaName>
+		</popup>
+	</screen>
+	
+	<screen>
+		<name>M2L3S08</name>
+		<title>Conclusions</title>
+		<mediaName>M2L3S08.mp3</mediaName>
+		<animation>true</animation>
+		
+		<popup>
+			<name>pop1</name>
+			<mediaName></mediaName>
+		</popup>		
+		<popup>
+			<name>pop2</name>
+			<mediaName></mediaName>
+		</popup>
+	</screen>
+	
+	<screen>
+		<name>M2L3S09</name>
+		<title>Phase 3 Long-term Safety and Efficacy Study</title>
+		<mediaName>M2L3S09.mp3</mediaName>
+		<animation></animation>
+		
+		<popup>
+			<name>pop1</name>
+			<mediaName>M2L3S09A.mp3</mediaName>
+		</popup>		
+		<popup>
+			<name>pop2</name>
+			<mediaName>M2L3S09B.mp3</mediaName>
+		</popup>
+		<popup>
+			<name>pop3</name>
+			<mediaName>M2L3S09C.mp3</mediaName>
+		</popup>
+		<popup>
+			<name>pop4</name>
+			<mediaName>M2L3S09D.mp3</mediaName>
+		</popup>
+	</screen>
+	
+	<screen>
+		<name>M2L3S10</name>
+		<title>Percent Change in Lesion Count From Baseline</title>
+		<mediaName>M2L3S10.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L3S11</name>
+		<title>Subject’s Assessment of Acne</title>
+		<mediaName>M2L3S11.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L3S12</name>
+		<title>Local Cutaneous Tolerability and Adverse Events</title>
+		<mediaName>M2L3S12.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L3S13</name>
+		<title>Conclusions</title>
+		<mediaName>M2L3S13.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L3S14</name>
+		<title>Phase III Study in Pediatric Patients</title>
+		<mediaName>M2L3S14.mp3</mediaName>
+		<animation></animation>
+		
+		<popup>
+			<name>pop1</name>
+			<mediaName>M2L3S14A.mp3</mediaName>
+		</popup>		
+		<popup>
+			<name>pop2</name>
+			<mediaName>M2L3S14B.mp3</mediaName>
+		</popup>
+		<popup>
+			<name>pop3</name>
+			<mediaName>M2L3S14C.mp3</mediaName>
+		</popup>
+		<popup>
+			<name>pop4</name>
+			<mediaName>M2L3S14D.mp3</mediaName>
+		</popup>
+	</screen>
+	
+	<screen>
+		<name>M2L3S15</name>
+		<title>IGA Success Rate </title>
+		<mediaName>M2L3S15.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L3S16</name>
+		<title>Median Percent Change in Lesion Counts</title>
+		<mediaName>M2L3S16.mp3</mediaName>
+		<animation>true</animation>
+		<popup>
+			<name>pop1</name>
+			<mediaName></mediaName>
+		</popup>		
+		<popup>
+			<name>pop2</name>
+			<mediaName></mediaName>
+		</popup>
+		<popup>
+			<name>pop3</name>
+			<mediaName></mediaName>
+		</popup>
+	</screen>
+	
+	<screen>
+		<name>M2L3S17</name>
+		<title>Safety Results</title>
+		<mediaName>M2L3S17.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L3S18</name>
+		<title>Conclusions</title>
+		<mediaName>M2L3S18.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L3S19</name>
+		<title>TactuPump Forte Study</title>
+		<mediaName>M2L3S19.mp3</mediaName>
+		<animation></animation>
+		
+		<popup>
+			<name>pop1</name>
+			<mediaName>M2L3S19A.mp3</mediaName>
+		</popup>		
+		<popup>
+			<name>pop2</name>
+			<mediaName>M2L3S19B.mp3</mediaName>
+		</popup>
+		<popup>
+			<name>pop3</name>
+			<mediaName>M2L3S19C.mp3</mediaName>
+		</popup>
+		<popup>
+			<name>pop4</name>
+			<mediaName>M2L3S19D.mp3</mediaName>
+		</popup>
+	</screen>
+	
+	<screen>
+		<name>M2L3S20</name>
+		<title>Results</title>
+		<mediaName>M2L3S20.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L3S21</name>
+		<title>Results</title>
+		<mediaName>M2L3S21.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+	
+	<screen>
+		<name>M2L3S22</name>
+		<title>Conclusions</title>
+		<mediaName>M2L3S22.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+
+	<screen>
+		<name>M2L3S23</name>
+		<title>Key Takeaways</title>
+		<mediaName>M2L3S23.mp3</mediaName>
+		<animation>true</animation>
+	</screen>
+
+
+
+	<!-- Lesson 4 -->
+	<screen> 	<!-- 39 -->
+		<name>M2L4S01</name>
+		<title>eFlashcards</title>
+		<mediaName></mediaName>
+		
+		<popup>
+			<name>flash1</name>
+			<mediaName></mediaName>
+			<type>flash</type>
+		</popup>
+		
+		<popup>
+			<name>flash2</name>
+			<mediaName></mediaName>
+			<type>flash</type>
+		</popup>
+		
+		<popup>
+			<name>flash3</name>
+			<mediaName></mediaName>
+			<type>flash</type>
+		</popup>
+		
+		<popup>
+			<name>flash4</name>
+			<mediaName></mediaName>
+			<type>flash</type>
+		</popup>
+		
+		<popup>
+			<name>flash5</name>
+			<mediaName></mediaName>
+			<type>flash</type>
+		</popup>
+	</screen>
+	
+
+	<!-- Assessment -->
+	<screen> <!-- 40 -->
+		<name>M2L5S01</name>
+		<title>Assessment</title>
+		<mediaName></mediaName>
+	</screen>
+	
+	<screen>
+		<name>M2L5S02</name>
+		<title>Question 1</title>
+		<mediaName></mediaName>
+		
+		<assessment>
+			<type>multiple</type>
+			<options>
+				<subtype>multiSelect</subtype>
+			</options>
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S03</name>
+		<title>Question 2</title>
+		<mediaName></mediaName>
+		
+		<assessment>
+			<type>multiple</type>
+			<options>
+				<subtype>multiSelect</subtype>
+			</options>
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S04</name>
+		<title>Question 3</title>
+		<mediaName></mediaName>
+		
+		<assessment>
+			<type>multiple</type>
+			<options>
+				<subtype>multiSelect</subtype>
+			</options>		
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S05</name>
+		<title>Question 4</title>
+		<mediaName></mediaName>
+		
+		<assessment>
+			<type>multiple</type>
+			<options>
+				<tries>1</tries>
+			</options>	
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S06</name>
+		<title>Question 5</title>
+		<mediaName></mediaName>		
+		
+		<assessment>
+			<type>multiple</type>
+			<options>
+				<subtype>multiSelect</subtype>
+			</options>
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S07</name>
+		<title>Question 6</title>
+		<mediaName></mediaName>
+		
+		<assessment>
+			<type>multiple</type>
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S08</name>
+		<title>Question 7</title>
+		<mediaName></mediaName>
+		
+		<assessment>
+			<type>multiple</type>
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S09</name>
+		<title>Question 8</title>
+		<mediaName></mediaName>
+		
+		<assessment>
+			<type>multiple</type>
+			<options>
+				<subtype>multiSelect</subtype>
+			</options>		
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S10</name>
+		<title>Question 9</title>
+		<mediaName></mediaName>
+		
+		<assessment>
+			<type>multiple</type>
+			<options>
+				<tries>1</tries>
+			</options>	
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S11</name>
+		<title>Question 10</title>
+		<mediaName></mediaName>
+		
+		<assessment>
+			<type>multiple</type>
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S12</name>
+		<title>Question 11</title>
+		<mediaName></mediaName>
+		
+		<assessment>
+			<type>multiple</type>
+			<options>
+				<subtype>multiSelect</subtype>
+			</options>		
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S13</name>
+		<title>Question 12</title>
+		<mediaName></mediaName>
+		
+		<assessment>
+			<type>multiple</type>
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S14</name>
+		<title>Question 13</title>
+		<mediaName></mediaName>
+		
+		<assessment>
+			<type>multiple</type>
+			<options>
+				<tries>1</tries>
+			</options>	
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S15</name>
+		<title>Question 15</title>
+		<mediaName></mediaName>
+		
+		<assessment>
+			<type>multiple</type>	
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S16</name>
+		<title>Question 14</title>
+		<mediaName></mediaName>
+		
+		<assessment>
+			<type>dragAndDrop</type>
+		</assessment>
+	</screen>
+	
+	<screen>
+		<name>M2L5S17</name> <!-- 62 -->
+		<title>Congratulations</title>
+		<type>splash</type>
+		<mediaName></mediaName>
+	</screen>	
+
+	
+	<screen>
+		<name>M2L6S01</name> <!-- 63 -->
+		<title>x</title>
+		<type>splash</type>
+		<mediaName></mediaName>
+	</screen>	
+	
+</screenList>

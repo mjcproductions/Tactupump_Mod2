@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- M2L1S03 -->
+<animation>
+
+	<anim>
+		<src>EPI_203.png</src>
+		<time>12</time>
+	</anim>
+	<anim>
+		<src>EPI_203-01.png</src>
+		<time>15</time>
+		<end>53</end>
+	</anim>
+	<anim>
+		<src>EPI_203-02.png</src>
+		<time>16</time>
+		<end>53</end>
+	</anim>
+	<anim>
+		<src>EPI_203-03.png</src>
+		<time>59</time>
+		<end>64</end>
+	</anim>
+	<anim>
+		<src>EPI_203-04.png</src>
+		<time>65</time>
+	</anim>
+	<anim>
+		<src>EPI_203-05.png</src>
+		<time>74</time>
+	</anim>
+
+	
+</animation>

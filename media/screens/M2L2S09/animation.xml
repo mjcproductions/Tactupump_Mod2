@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- M2L2S09 -->
+<animation>
+	<anim>
+		<src>EPI_216.png</src>
+		<time>0</time>
+		<end>26</end>
+	</anim>
+	<anim>
+		<src>EPI_216-01.png</src>
+		<time>11</time>
+		<end>19</end>
+	</anim>
+	<anim>
+		<src>EPI_216-02.png</src>
+		<time>19</time>
+		<end>21</end>
+	</anim>
+	<anim>
+		<src>EPI_216-03.png</src>
+		<time>21</time>
+		<end>26</end>
+	</anim>
+	<anim>
+		<src>EPI_216-04.png</src>
+		<time>26</time>
+	</anim>
+
+
+</animation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- M2L3S16 -->
+<animation>
+	<anim>
+		<src>M2L3S16-01.png</src>
+		<time>0</time>
+	</anim>
+	
+	<anim>
+		<src>pop1/pop1.png</src>
+		<time>0</time>
+	</anim>
+	
+	<anim>
+		<src>pop2/pop2.png</src>
+		<time>15</time>
+	</anim>
+	
+	<anim>
+		<src>pop3/pop3.png</src>
+		<time>28</time>
+	</anim>
+	
+	<anim>
+		<element>btn4</element>
+		<time>60</time>
+	</anim>
+	
+	<anim>
+		<element>btn5</element>
+		<time>60</time>
+	</anim>
+	
+	<anim>
+		<element>btn6</element>
+		<time>60</time>
+	</anim>
+	
+</animation>

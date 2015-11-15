@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- M2L3S08 -->
+<animation>
+	<anim>
+		<src>M2L3S08-01.png</src>
+		<time>1</time>
+	</anim>
+	<anim>
+		<src>M2L3S08-02.png</src>
+		<time>16</time>
+	</anim>
+	<anim>
+		<src>M2L3S08-03.png</src>
+		<time>28</time>
+	</anim>
+	<anim>
+		<src>M2L3S08-04.png</src>
+		<time>40</time>
+	</anim>
+	<anim>
+		<src>M2L3S08-05.png</src>
+		<time>47</time>
+	</anim>
+
+</animation>
